@@ -31,9 +31,7 @@
     "extends": "react-app"
   },
   "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not op_mini all"
+    "since 2010"
   ],
   "devDependencies": {
     "autoprefixer": "^9.7.1",
